@@ -9,7 +9,7 @@
 
 ## env file
 
-``` 
+```
 CLERK_SECRET_KEY={Insert clerk secret key here}
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY={Insert clerk publishable key here}
 NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
